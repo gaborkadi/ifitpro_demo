@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934faf9a3c978534182176a1c36b4369, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  displayName: Nothing
+  index: 3
+  sprite: {fileID: 21300000, guid: 21579e698e80d7d48a786ed41a960511, type: 3}
+  stages:
+  - instructionName: Swing
+    instructionDetails: Swing right and left once
+    animation: {fileID: 0}
+    acceptedGestures:
+    - {fileID: 11400000, guid: e1cbfcfb339d05440b1544683a190d68, type: 2}
+    - {fileID: 11400000, guid: b0395e1361039004d9079c335eab474c, type: 2}
+  - instructionName: Arm circling
+    instructionDetails: Circle once counter clockwise
+    animation: {fileID: 0}
+    acceptedGestures:
+    - {fileID: 11400000, guid: f903e1091ddf368448cf6bd8eccef2ee, type: 2}
+    - {fileID: 11400000, guid: 2bcaf5259d6ac1c498e94ca0a6f77bf0, type: 2}
+    - {fileID: 11400000, guid: e158fdf78fbe9314cb42ce8b421fa36b, type: 2}
+    - {fileID: 11400000, guid: 6f36125ce8240e54498a968d10410acd, type: 2}
+  - instructionName: Arm circling
+    instructionDetails: Circle once more counter clockwise
+    animation: {fileID: 0}
+    acceptedGestures:
+    - {fileID: 11400000, guid: f903e1091ddf368448cf6bd8eccef2ee, type: 2}
+    - {fileID: 11400000, guid: 2bcaf5259d6ac1c498e94ca0a6f77bf0, type: 2}
+    - {fileID: 11400000, guid: e158fdf78fbe9314cb42ce8b421fa36b, type: 2}
+    - {fileID: 11400000, guid: 6f36125ce8240e54498a968d10410acd, type: 2}

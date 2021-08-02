@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934faf9a3c978534182176a1c36b4369, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  displayName: Some other thing
+  index: 2
+  sprite: {fileID: 21300000, guid: 9ef175a2283ede24d81a4440046018ab, type: 3}
+  stages:
+  - instructionName: Lift
+    instructionDetails: Raise and lower your hand
+    animation: {fileID: 0}
+    acceptedGestures:
+    - {fileID: 11400000, guid: d6a16d542a6bc284891ec7247b2d4a24, type: 2}
+    - {fileID: 11400000, guid: ed33959fc26e82841a6f12572ebca214, type: 2}
+    - {fileID: 11400000, guid: 09458db6f7779f146be534fca0fad42f, type: 2}
+  - instructionName: Hold
+    instructionDetails: Raise and lower one more time
+    animation: {fileID: 0}
+    acceptedGestures:
+    - {fileID: 11400000, guid: d6a16d542a6bc284891ec7247b2d4a24, type: 2}
+    - {fileID: 11400000, guid: ed33959fc26e82841a6f12572ebca214, type: 2}
+    - {fileID: 11400000, guid: 09458db6f7779f146be534fca0fad42f, type: 2}

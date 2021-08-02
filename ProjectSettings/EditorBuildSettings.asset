@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Router.unity
+    guid: 0f184ea069fe0a04eaae47ac6627d828
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d3336a543b362054496219ede0b7d033
+  - enabled: 1
+    path: Assets/Scenes/Animation.unity
+    guid: 044bbeb04645a7e409707c1fdeb1997f
+  m_configObjects: {}

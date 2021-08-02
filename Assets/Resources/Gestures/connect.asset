@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f736ce0d45840944e9a8b992a32581a4, type: 3}
+  m_Name: connect
+  m_EditorClassIdentifier: 
+  orientation: 4
+  segments:
+  - direction: {x: -0.04790228, y: -0.05095011, z: 0.11105615}
+  - direction: {x: -0.2979023, y: -0.01970017, z: 0.0915249}
+  - direction: {x: -0.36430854, y: 0.08186233, z: -0.010037571}
+  - direction: {x: -0.23930852, y: 0.07795608, z: -0.10769385}
+  - direction: {x: -0.21977727, y: 0.02717483, z: -0.2522251}
+  - direction: {x: -0.20415226, y: 0.08967483, z: -0.3303501}
+  - direction: {x: -0.17290227, y: 0.19123733, z: -0.47878754}
+  - direction: {x: 0.05366022, y: 0.15217483, z: -0.50222516}
+  - direction: {x: 0.23334773, y: 0.09748733, z: -0.5647251}
+  - direction: {x: 0.34662896, y: -0.0040751696, z: -0.47097504}
+  - direction: {x: 0.49506643, y: 0.05451864, z: -0.2366001}
+  - direction: {x: 0.76069146, y: -0.07829392, z: -0.1350376}
+  - direction: {x: 0.8544414, y: -0.06657523, z: -0.013943821}
+  - direction: {x: 0.6864727, y: -0.07438767, z: -0.13113135}
+  - direction: {x: 0.54975396, y: 0.05061239, z: -0.2912876}
+  - direction: {x: 0.2880352, y: 0.18342483, z: -0.47097504}
+  - direction: {x: 0.018503973, y: 0.18733108, z: -0.4983189}
+  - direction: {x: -0.05571478, y: 0.20686233, z: -0.37722504}
+  - direction: {x: -0.04399603, y: 0.10920608, z: -0.28738135}
+  - direction: {x: -0.016652277, y: 0.17561233, z: -0.1741001}
+  - direction: {x: -0.08305853, y: 0.10139358, z: -0.1350376}
+  - direction: {x: -0.16899602, y: 0.07795608, z: -0.05300635}
+  - direction: {x: -0.14555852, y: 0.04279989, z: -0.02175638}
+  - direction: {x: -0.11430853, y: -0.13688767, z: -0.10769385}

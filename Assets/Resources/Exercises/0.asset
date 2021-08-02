@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934faf9a3c978534182176a1c36b4369, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  displayName: Whatever
+  index: 0
+  sprite: {fileID: 21300000, guid: 2b37895e777d6e64da9e6547b4060bec, type: 3}
+  stages:
+  - instructionName: "Kark\xF6rz\xE9s el\u0151re"
+    instructionDetails: "Kark\xF6rz\xE9s el\u0151re 3x (\xF3ramutat\xF3val ellent\xE9tesen)"
+    animation: {fileID: 7400000, guid: c473e0ffdbce67648ab8e3da7dc18f16, type: 2}
+    acceptedGestures:
+    - {fileID: 11400000, guid: 0e6168b0a083a3248a1f33231df2cfef, type: 2}
+    - {fileID: 11400000, guid: 59091a4b0b914a34399022a9739a5f08, type: 2}
+  - instructionName: "Kark\xF6rz\xE9s h\xE1tra"
+    instructionDetails: "Kark\xF6rz\xE9s h\xE1tra 3x (\xF3ramutat\xF3val megegyez\u0151en)"
+    animation: {fileID: 7400000, guid: c473e0ffdbce67648ab8e3da7dc18f16, type: 2}
+    acceptedGestures:
+    - {fileID: 11400000, guid: aa42070f94b19d14f84acf2c6386e42b, type: 2}
+    - {fileID: 11400000, guid: adbbdfad44cd185439d6b9476ae193c7, type: 2}
+  - instructionName: "Karemel\xE9s"
+    instructionDetails: "Karemel\xE9s 3x lentr\u0151l kezdve"
+    animation: {fileID: 7400000, guid: 8b039324106c2174bb0e58e37b6de7f9, type: 2}
+    acceptedGestures:
+    - {fileID: 11400000, guid: e591c7755fc68484081f9005fdacef0e, type: 2}
+    - {fileID: 11400000, guid: 4d31133730f9cb84eb37e5b7e58af5b5, type: 2}
+  - instructionName: "Karlend\xEDt\xE9s"
+    instructionDetails: "Kar oldalra kiny\xFAjtva, mozgat\xE1s el\u0151re-h\xE1tra
+      4x"
+    animation: {fileID: 7400000, guid: 71c0582eadc439a4baff1133f1df8433, type: 2}
+    acceptedGestures:
+    - {fileID: 11400000, guid: 8a34566a9c9eb8c45b383578cf4bea00, type: 2}
+    - {fileID: 11400000, guid: 9a9d379df44173b48b203c390bd2e1a4, type: 2}
+    - {fileID: 11400000, guid: 09cd7eea353ba9b418beee7405ace402, type: 2}
+  - instructionName: "R\xF6vid \xE9s hossz\xFA h\xFAz\xE1s"
+    instructionDetails: "K\xE9z mellkas el\u0151tt, 2 h\xE1tra h\xFAz\xE1s, majd kar
+      oldalra kiny\xFAjtva 2 h\xE1tra h\xFAz\xE1s, \xF6sszesen 4x"
+    animation: {fileID: 7400000, guid: 71c0582eadc439a4baff1133f1df8433, type: 2}
+    acceptedGestures:
+    - {fileID: 11400000, guid: c960aded1f737d94daa7da087d08d8f5, type: 2}
+    - {fileID: 11400000, guid: d286163fe39bb994cabbb85946e933d6, type: 2}
+    - {fileID: 11400000, guid: 821cd448a0171d144a0575b477c7c5c6, type: 2}

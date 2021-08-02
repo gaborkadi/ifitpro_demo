@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f736ce0d45840944e9a8b992a32581a4, type: 3}
+  m_Name: lift reverse 3x
+  m_EditorClassIdentifier: 
+  orientation: 4
+  segments:
+  - direction: {x: 0.09662897, y: 0.51154983, z: -0.4553501}
+  - direction: {x: 0.014597723, y: 0.44123733, z: -0.42019385}
+  - direction: {x: 0.2724102, y: 0.10529983, z: -0.47878754}
+  - direction: {x: 0.33881646, y: -0.10173142, z: -0.17019385}
+  - direction: {x: 0.08491022, y: -0.17595017, z: -0.48660004}
+  - direction: {x: 0.09662897, y: -0.12126267, z: -0.56081885}
+  - direction: {x: 0.12787898, y: -0.35954392, z: -0.4162876}
+  - direction: {x: 0.14741021, y: -0.29313767, z: -0.17800635}
+  - direction: {x: 0.09662897, y: -0.17985642, z: -0.0491001}
+  - direction: {x: 0.018503973, y: 0.28498733, z: 0.3415249}
+  - direction: {x: 0.04584772, y: 0.26545608, z: 0.65011865}
+  - direction: {x: 0.12397272, y: 0.26154983, z: 0.64230615}
+  - direction: {x: 0.13178523, y: 0.5857686, z: 0.9508999}
+  - direction: {x: 0.13959773, y: 0.87092483, z: 1.2907436}
+  - direction: {x: -0.21587102, y: 1.3709248, z: 1.3649623}
+  - direction: {x: -0.34868354, y: 1.7068623, z: 1.4235561}
+  - direction: {x: -0.07524602, y: 1.4881123, z: 1.2868373}
+  - direction: {x: -0.008839777, y: 1.0857686, z: 1.0407436}
+  - direction: {x: -0.012746027, y: 0.7654561, z: 0.8180874}
+  - direction: {x: 0.06147272, y: 0.50373733, z: 0.5837124}
+  - direction: {x: 0.16694148, y: 0.17951858, z: 0.32980615}
+  - direction: {x: 0.13959773, y: 0.07014358, z: -0.029568851}
+  - direction: {x: 0.23725396, y: -0.07048148, z: -0.32644385}
+  - direction: {x: 0.19037898, y: -0.08610642, z: -0.40066266}
+  - direction: {x: 0.20209773, y: -0.24235642, z: -0.46706885}
+  - direction: {x: 0.18647273, y: -0.34001267, z: -0.5100376}
+  - direction: {x: 0.22944148, y: -0.11345017, z: -0.42019385}
+  - direction: {x: 0.09272272, y: 0.19123733, z: -0.3967564}
+  - direction: {x: 0.18256648, y: 0.41779986, z: -0.46706885}
+  - direction: {x: 0.18256648, y: 0.5154561, z: -0.45925635}
+  - direction: {x: 0.12787898, y: 0.51936233, z: -0.41238135}
+  - direction: {x: 0.18647273, y: 0.42951858, z: -0.5412876}
+  - direction: {x: 0.29975396, y: 0.5076436, z: -0.42019385}
